@@ -1,0 +1,17 @@
+{
+  "name": "module-panda",
+  "version": "0.0.1",
+  "description": "Super module totalement inutile :)",
+  "main": "pandaPower",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AudreaM/test-module"
+  },
+  "keywords": ["panda", "babouin", ":)", ":p"],
+  "engines": {
+    "node" : "*"
+  }
+}
